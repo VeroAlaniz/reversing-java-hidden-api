@@ -1,3 +1,9 @@
+Este repositorio documenta el proceso de análisis y explotación de una aplicación Java (`calculadora.jar`) mediante ingeniería inversa.  
+El desafío fue extraído del sitio [softwareseguro.com.ar](https://softwareseguro.com.ar), y se resolvió en un entorno Windows 11 con Git Bash, utilizando herramientas como JD-GUI, Python y curl.
+
+
+
+
 # 🔍 Reversing de una Aplicación Java con API Oculta
 
 Este repositorio documenta el proceso de análisis y explotación de una aplicación Java (`calculadora.jar`) mediante ingeniería inversa.
@@ -143,3 +149,15 @@ En un entorno real, esto podría representar **fraude interno** o **abuso de ló
 - Capturas del análisis (`/img`)
 - Script de decodificación (`decode_url.py`)
 - Archivo `calculadora.jar` (no subido por motivos legales, se trabajó localmente)
+
+
+"" 🖥️ Entorno de trabajo
+SO: Windows 11 con Git Bash
+
+IDE/Editor: Visual Studio Code / Bloc de notas (si usaste alguno)
+
+Terminal: Git Bash
+
+Repositorio remoto: GitHub
+
+Navegador: Chrome / Firefox (si usaste para pruebas)""
