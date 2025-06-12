@@ -75,7 +75,7 @@ curl "http://api-calculadora.softwareseguro.com.ar/verificar-codigo-calculadora/
 
 curl "http://api-calculadora.softwareseguro.com.ar/verificar-codigo-calculadora/?t=B"
 
-## 📷 ![Automatización de Puerbas](img/automatizacionCalc.png)
+📷 ![Hash obtenido](img/hash.png)
 
 ```python
 import requests
@@ -104,8 +104,7 @@ for codigo in codigos:
 
 Se descubrió que el código `ABCD` efectivamente devuelve un hash secreto que confirma que se cumplió el desafío.
 
-📷 ![Hash obtenido](img/hash.png)
-
+## 📷 ![Automatización de Puerbas](img/automatizacionCalc.png)
 ---
 
 ## 📌 Conclusión
