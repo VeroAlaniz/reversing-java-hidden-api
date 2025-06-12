@@ -155,8 +155,8 @@ En un entorno real, esto podría representar **fraude interno** o **abuso de ló
 
 ## 🖥️ Entorno de trabajo
 
-- **Sistema Operativo:** Windows 11
-- **Terminal utilizada:** Git Bash
+- **Sistema Operativo:** Windows 10
+- **Terminal utilizada:** Git Bash / cmd
 - **Editor/IDE:** Visual Studio Code / Bloc de notas
 - **Repositorio remoto:** GitHub
-- **Navegador:** Chrome / Firefox
+- **Navegador:** Chrome 
