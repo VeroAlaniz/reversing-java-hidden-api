@@ -54,7 +54,7 @@ codificada en Base64 dentro del código:
 
 📷 ![URL](img/cod64.png)
 
-Se decodifico la URL por medio de esta línea en el código, y se identifico la URL :
+Se decodificó la URL por medio de esta línea en el código, y se identificó la URL :
 ```python
 import base64
 
@@ -74,7 +74,7 @@ Se probaron códigos válidos e inválidos manualmente:
 curl "http://api-calculadora.softwareseguro.com.ar/verificar-codigo-calculadora/?t=A"
 curl "http://api-calculadora.softwareseguro.com.ar/verificar-codigo-calculadora/?t=B"
 
-## 📷 ![Automatizacion de Puerbas](img/automatizacionCalc.png)
+## 📷 ![Automatización de Puerbas](img/automatizacionCalc.png)
 
 ```python
 import requests
