@@ -72,6 +72,7 @@ Se desarrolló un script para probar múltiples códigos automáticamente:
 Se probaron códigos válidos e inválidos manualmente:
 
 curl "http://api-calculadora.softwareseguro.com.ar/verificar-codigo-calculadora/?t=A"
+
 curl "http://api-calculadora.softwareseguro.com.ar/verificar-codigo-calculadora/?t=B"
 
 ## 📷 ![Automatización de Puerbas](img/automatizacionCalc.png)
