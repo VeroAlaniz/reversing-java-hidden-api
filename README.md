@@ -40,7 +40,7 @@ Antes de descubrir la API, se ejecutó el archivo calculadora.jar desde la termi
 Se descompiló el archivo `calculadora.jar` con **JD-GUI** para entender la lógica interna de la app y 
 detectar cómo interactuaba con una API oculta.
 
-📷 ![Descompila archivo .jar](img/primerasPruebas.png)
+📷 ![Descompila archivo .jar](img/appjava.png)
 
 ```bash
 java -jar calculadora.jar
