@@ -151,13 +151,12 @@ En un entorno real, esto podría representar **fraude interno** o **abuso de ló
 - Archivo `calculadora.jar` (no subido por motivos legales, se trabajó localmente)
 
 
-"" 🖥️ Entorno de trabajo
-SO: Windows 11 con Git Bash
+---
 
-IDE/Editor: Visual Studio Code / Bloc de notas (si usaste alguno)
+## 🖥️ Entorno de trabajo
 
-Terminal: Git Bash
-
-Repositorio remoto: GitHub
-
-Navegador: Chrome / Firefox (si usaste para pruebas)""
+- **Sistema Operativo:** Windows 11
+- **Terminal utilizada:** Git Bash
+- **Editor/IDE:** Visual Studio Code / Bloc de notas
+- **Repositorio remoto:** GitHub
+- **Navegador:** Chrome / Firefox
