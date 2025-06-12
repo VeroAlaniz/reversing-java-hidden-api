@@ -31,7 +31,7 @@ El objetivo fue encontrar un código oculto, interactuar con una API restringida
 > Encontrá el hash que lo comprueba.
 
 ---
-##🚀 Ejecución inicial de la aplicación .jar
+## 🚀 Ejecución inicial de la aplicación .jar
 Antes de descubrir la API, se ejecutó el archivo calculadora.jar desde la terminal para observar su comportamiento como usuario final.
 
 
